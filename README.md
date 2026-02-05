@@ -49,3 +49,6 @@ Given a list of meeting time intervals, where each interval has a start time and
 **Input:**
 ```python
 [(0, 30), (5, 10), (15, 20)]
+
+**Outut:**
+2
